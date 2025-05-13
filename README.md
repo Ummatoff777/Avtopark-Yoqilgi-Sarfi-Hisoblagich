@@ -1,3 +1,4 @@
+
 # Avtopark-Yoqilgi-Sarfi-Hisoblagich
 “Avtopark Yoqilgi Sarfini Hisoblagich” - avtoparkdagi transport vositalarining yoqilg’i sarfini kuzatish va optimallashtirish uchun ishlab chiqilgan dastur. U yoqilg’i xarajatlarini kamaytirish, statistik ma’lumotlarni to’plash va transport harajatlarini nazorat qilishga yordam beradi.
 # Elektron Hamyon Dasturi  
@@ -28,3 +29,9 @@ Elektron-Hamyon/
 ```bash
 git clone https://github.com/Ummatoff777/Avtopark-Yoqilgi-Sarfi-Hisoblagich.git  
 cd Avtopark-Yoqilgi-Sarfi-Hisoblagich  
+Avtopark-Yoqilgi-Sarfi-Hisoblagich/
+├── app.py
+├── requirements.txt
+├── templates/
+│   └── index.html
+└── README.md
