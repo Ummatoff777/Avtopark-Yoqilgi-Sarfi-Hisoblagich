@@ -23,3 +23,8 @@ Elektron-Hamyon/
 │  
 ├── requirements.txt  
 └── LICENSE  
+## 🚀 O'rnatish  
+1. Repozitoriyani klonlash:  
+```bash
+git clone https://github.com/Ummatoff777/Avtopark-Yoqilgi-Sarfi-Hisoblagich.git  
+cd Avtopark-Yoqilgi-Sarfi-Hisoblagich  
