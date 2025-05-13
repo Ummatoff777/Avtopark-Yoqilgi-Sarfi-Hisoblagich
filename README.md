@@ -13,3 +13,13 @@ Bu loyiha shaxsiy moliyaviy harajatlarni boshqarish, daromad va xarajatlarni kuz
 - **Parol bilan himoyalash**  
 
 ## 📂 Loyihaning tuzilishi  
+Elektron-Hamyon/  
+│  
+├── README.md  
+├── src/  
+│   ├── main.py  
+│   ├── database.py  
+│   └── ui.py  
+│  
+├── requirements.txt  
+└── LICENSE  
